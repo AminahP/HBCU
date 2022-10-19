@@ -1,5 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import Events from './components/Events';
+import HBCUlist from './components/HBCUlist';
+import Auth from './components/Auth'
+
 
 function App() {
   return (
